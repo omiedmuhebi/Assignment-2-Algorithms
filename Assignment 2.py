@@ -63,5 +63,5 @@ print("Given array is:", arr)  # Print the unsorted array
 merge_sort(arr)  # Call the merge_sort function on the array
 print("Sorted array is:", arr)  # Print the sorted array
 
-# Quit pygame, cleaning up the initialized modules
+# Quit pygame
 pygame.quit()
